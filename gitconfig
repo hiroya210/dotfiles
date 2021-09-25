@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hirotakemura210@gmail.com
+	name = Hiroya Takemura
